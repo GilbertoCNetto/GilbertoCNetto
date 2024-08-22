@@ -1,4 +1,4 @@
-# Olá, eu me chamo Gilberto Cury Netto e tenho 22 anos.
+# Olá, eu me chamo Gilberto Cury Netto.
 
 ## O que você deveria saber Sobre mim:
 
