@@ -7,7 +7,7 @@
 - 💻 **Curso:** Ciência de Dados.
 - 📅 **Semestre Atual:** 3° Semestre.
 - 💼 **Experiência:** Estagio/Bolsa AWS Cloud Data Engineer.
-- 💡 **Conhecimentos:** Python(Pandas, Seaborn, Matplolib, Numpy), Linux, Estatística Descritiva.
+- 💡 **Conhecimentos:** Python(Pandas, Seaborn, Matplolib, Numpy), Linux, Docker, SQL, AWS S3, Estatística Descritiva.
 - 🎮 **Hobbies:** Jogar video-games, ler livros e mangás, ver séries e tocar violão.
 
 ## Idiomas:
